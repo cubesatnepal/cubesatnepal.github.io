@@ -1,10 +1,7 @@
-## About
-Cubesat Nepal is determined to develop and launch a cubesat with the participation of the public interest. Anyone interested in this project may contribute in any way they can, be it with their technical expertise, finance or with guidance and training.
-
-We primarily aim to inform the public about this matter regarding its importance and possibilites in current scenario and how it can benefit in national context. 
 
 ## Context
-Nepal being a developing country, has to depend on the resources of other nations for almost everything. Communication and Technology, while being one of the most crucial part of progression, it has seen a very slow pace due to poor infrastructure and developmental concerns. 
+Nepal being a developing country, has to depend on the resources of other nations for almost everything. Communication and Technology, while being one of the most crucial part of progression, it has seen a very slow pace due to poor infrastructure and developmental concerns. While it certainly does not promise eradication of current issues and gain of higher lifestyle overnight, it can be seen as a step towards something better, a piece in a block.
+That brings the idea of open-sourcing the material altogether. Having public participation can have benefit a person to have a wider vision to the cause and emanate the knowledge to others along the way. This way, not only the public is always informed, but also there is a chance for them to be a part of it as their own.
 
 ## Benefits
 - Better reach on the rural parts of nation 
