@@ -1,6 +1,6 @@
 
 ## Context
-Nepal being a developing country, has to depend on the resources of other nations for almost everything. Communication and Technology, while being one of the most crucial part of progression, it has seen a very slow pace due to poor infrastructure and developmental concerns. While it certainly does not promise eradication of current issues and gain of higher lifestyle overnight, it can be seen as a step towards something better, a piece in a block.
+Nepal being a developing country, has to depend on the resources of other nations for almost everything. Communication and Technology, while being one of the most crucial parts of progression, it has seen a very slow pace due to poor infrastructure and developmental concerns. While it certainly does not promise eradication of current issues and gain of higher lifestyle overnight, it can be seen as a step towards something better, a piece in a block.
 That brings the idea of open-sourcing the material altogether. Having public participation can have benefit a person to have a wider vision to the cause and emanate the knowledge to others along the way. This way, not only the public is always informed, but also there is a chance for them to contribute to it as their own initiative.
 
 ## Benefits
